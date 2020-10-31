@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xkcdapp/static/css/main.e22e0b93.chunk.css",
+    "main.js": "/xkcdapp/static/js/main.7dab4c95.chunk.js",
+    "main.js.map": "/xkcdapp/static/js/main.7dab4c95.chunk.js.map",
+    "runtime-main.js": "/xkcdapp/static/js/runtime-main.4415e06f.js",
+    "runtime-main.js.map": "/xkcdapp/static/js/runtime-main.4415e06f.js.map",
+    "static/js/2.6a4c6b81.chunk.js": "/xkcdapp/static/js/2.6a4c6b81.chunk.js",
+    "static/js/2.6a4c6b81.chunk.js.map": "/xkcdapp/static/js/2.6a4c6b81.chunk.js.map",
+    "static/js/3.6eb58127.chunk.js": "/xkcdapp/static/js/3.6eb58127.chunk.js",
+    "static/js/3.6eb58127.chunk.js.map": "/xkcdapp/static/js/3.6eb58127.chunk.js.map",
+    "index.html": "/xkcdapp/index.html",
+    "static/css/main.e22e0b93.chunk.css.map": "/xkcdapp/static/css/main.e22e0b93.chunk.css.map",
+    "static/js/2.6a4c6b81.chunk.js.LICENSE.txt": "/xkcdapp/static/js/2.6a4c6b81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4415e06f.js",
+    "static/js/2.6a4c6b81.chunk.js",
+    "static/css/main.e22e0b93.chunk.css",
+    "static/js/main.7dab4c95.chunk.js"
+  ]
+}
