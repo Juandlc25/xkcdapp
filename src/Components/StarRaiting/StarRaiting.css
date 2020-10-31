@@ -1,0 +1,10 @@
+.starRaiting {
+  margin-top: 20px;
+}
+input[type="radio"] {
+  display: none;
+}
+.starRaiting__star {
+  cursor: pointer;
+  transition: color 200ms;
+}
